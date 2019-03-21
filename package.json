@@ -1,0 +1,16 @@
+{
+  "name": "api-ci",
+  "version": "1.0.0",
+  "description": "Api test jenkings deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "egonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mocha": "^6.0.2",
+    "supertest": "^4.0.2"
+  }
+}
